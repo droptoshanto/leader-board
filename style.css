@@ -1,0 +1,25 @@
+body{
+    background-color: #F3F1FF;
+
+}
+.container{
+    margin-top: 40px;
+}
+.nav-link{
+    color: white;
+}
+.container-1{
+    background-color: white;
+}
+.font-color{
+    color: #562EFF;
+    padding: 20px;
+}
+.font-color1{
+    color: #562EFF;
+}
+.underline{
+    height: 2px;
+    width: 807px;
+    background-color: #D1D1D1;
+}
