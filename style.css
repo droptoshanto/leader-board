@@ -34,6 +34,7 @@ body {
 .card {
     border: none;
     box-shadow: 2px 2px 12px lightgray;
+    border-radius: 20px;
 }
 
 .card-text {
@@ -56,6 +57,7 @@ body {
     padding: 2px 5px 0px 5px;
     color: #FF4A60;
 }
-footer{
+
+footer {
     font-size: 12px;
 }
