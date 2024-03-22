@@ -1,25 +1,61 @@
-body{
+body {
     background-color: #F3F1FF;
 
 }
-.container{
+
+.container {
     margin-top: 40px;
 }
-.nav-link{
+
+.nav-link {
     color: white;
 }
-.container-1{
+
+.container-1 {
     background-color: white;
+    border-radius: 10px;
 }
-.font-color{
+
+.font-color {
     color: #562EFF;
     padding: 20px;
 }
-.font-color1{
+
+.font-color1 {
     color: #562EFF;
 }
-.underline{
+
+.underline {
     height: 2px;
     width: 807px;
     background-color: #D1D1D1;
+}
+
+.card {
+    border: none;
+    box-shadow: 2px 2px 12px lightgray;
+}
+
+.card-text {
+    color: #ED6B4F;
+}
+
+.star {
+    color: orange;
+}
+
+.rate-color {
+    color: gray;
+}
+
+.time-text {
+    background-color: #FFE4E8;
+    border-radius: 20px;
+    height: 29px;
+    width: 98;
+    padding: 2px 5px 0px 5px;
+    color: #FF4A60;
+}
+footer{
+    font-size: 12px;
 }
